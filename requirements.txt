@@ -1,0 +1,5 @@
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293028159/work
+pandas @ file:///C:/b/abs_c6fuezktfm/croot/pandas_1670425103552/work
+psycopg2 @ file:///C:/b/abs_6cdgqr8yu7/croot/psycopg2_1666817457048/work
+requests @ file:///C:/ci/requests_1657735340829/work
+SQLAlchemy==2.0.7
